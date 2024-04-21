@@ -4,7 +4,7 @@
 
 Aqui estão algumas informações para começar:
 
-- 🔭 Atualmente, estou trabalhando em **Distribuição Criptografada em Python**.
+- 🔭 Atualmente, estou trabalhando em uma **Distribuição Criptografada em Python**.
 - 🌱 Estou aprendendo e aperfeiçoando minhas habilidades em **Linux, Python e MySQL**.
 - 💬 Pergunte-me sobre **Python, Automações e Tecnologia**.
 - 📫 Como me alcançar: **GitHub: [JulioCFDeveloper](https://github.com/JulioCFDeveloper), Email: sourcenaiomiocc@outlook.com**.
