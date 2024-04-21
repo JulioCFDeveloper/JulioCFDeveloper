@@ -1,95 +1,25 @@
-https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
-## Hi there 👋
+## Olá, Eu sou Julio Cesar Fernandes 👋
 
-**JulioCFDeveloper/JulioCFDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**JulioCFDeveloper/JulioCFDeveloper** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece no seu perfil do GitHub.
 
-Here are some ideas to get you started:
+Aqui estão algumas informações para começar:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---------------------------------------------------------------------------
+- 🔭 Atualmente, estou trabalhando em **automações**.
+- 🌱 Estou aprendendo e aperfeiçoando minhas habilidades em **Linux, Python e MySQL**.
+- 👯 Estou interessado em colaborar em projetos relacionados a **Spyware, Distribuição Criptografada em Python e Geradores de Planilhas de Excel**.
+- 💬 Pergunte-me sobre **Python, automações e tecnologia**.
+- 📫 Como me alcançar: **GitHub: [JulioCFDeveloper](https://github.com/JulioCFDeveloper), Email: sourcenaiomiocc@outlook.com**.
+- 😄 Pronomes: **xarcov**.
+- ⚡ Fato divertido: **Eu amo Rock and Roll, trabalho em equipe e sou apaixonado por desenhos animados**.
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=701112&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=701112&size=30&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Julio+Cesar+Fernandes.;Tenho+26+anos...;Moro+no+Brasil!;Estou+focado+em+automações!;Bem+vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
+### Habilidades principais:
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=30&center=true&vCenter=true&width=1000&lines=OLÁ,+Meu+nome+é+Alessandro.;Tenho+22+anos...;Moro+no+Brasil!;Cursando+Análise+e+Desenvolvimento+de+Sistemas!;Bem+Vindo+:%29)](https://git.io/typing-svg)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
-> Ultimamente interessado em Tudo que utiliza Python, Sockets, Redes e Programação Assíncrona! (https://github.com/AlldDev)
-
-- 💻 Cursando Análise e Desenvolvimento de Sistemas
-- 🕵️ Pesquisador em **CyberSecurity**
-- ⚙️ ~~Tentando ser~~ desenvolvedor **Backend**
-- 🐧 **Linux** > ~~Windows~~
-
-<div align="center">
-  <a href="[https://github.com/AlldDev](https://github.com/AlldDev?tab=repositories)">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AlldDev&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlldDev&layout=compact&langs_count=16&theme=holi"/>
-</div>
-
-### <h2 color=00BFFF>Main skills:</h2>
-
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![HTML](https://img.shields.io/badge/-html-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![PHP](https://img.shields.io/badge/-Php-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
-![SQL](https://img.shields.io/badge/-_SQL_Server-0D1117?style=for-the-badge&logo=microsoft-sql-server&labelColor=0D1117)&nbsp;
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer"/>
-
-<![NODE.JS](https://img.shields.io/badge/-node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-<![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-<![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-<![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-
-
-
-
-
-
-
-
-
-
-
-
-# Seja bem vindo ao meu GitHub!⚡
-<img align="right" alt="HelloWorld" src="computer-screen.gif" width= "250px">
-
-> Ultimamente interessado em Tudo que utiliza Python, Sockets, Redes e Programação Assíncrona! (https://github.com/AlldDev)
-
-- 💻 Cursando Análise e Desenvolvimento de Sistemas
-- 🕵️ Pesquisador em **CyberSecurity**
-- ⚙️ ~~Tentando ser~~ desenvolvedor **Backend**
-- 🐧 **Linux** > ~~Windows~~
-<br><br>
-
-
-<div align="center">
-  <a href="https://github.com/AlldDev">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AlldDev&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlldDev&layout=compact&langs_count=16&theme=holi"/>
-</div>
-
-  # Conhecimentos 💡
-<div style="display: inline_block" align="left"><br>
-  <h1> Conhecimentos</h1
-  <img align="center" alt="tonetto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
-  <img align="center" alt="AlldDev-HTML" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="AlldDev-CSS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Tonetto-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-  <img align="center" alt="AlldDev-Python" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="AlldDev-PHP" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img align="center" alt="AlldDev-SQL" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-</div>
-
-![Snake animation](snake.svg)
-AlldDev/AlldDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=701112&height=120&section=footer"/>
