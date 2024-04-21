@@ -9,7 +9,7 @@ Aqui estão algumas informações para começar:
 - 💬 Pergunte-me sobre **Python, Automações e Tecnologia**.
 - 📫 Como me alcançar: **GitHub: [JulioCFDeveloper](https://github.com/JulioCFDeveloper), Email: sourcenaiomiocc@outlook.com**.
 - 😄 Pronomes: **xarcov**.
-- ⚡ Fato divertido: **Eu amo Rock and Roll, trabalho em equipe e sou apaixonado por desenhos animados**.
+- ⚡ Fato divertido: **Eu Amo Rock And Roll, Trabalho Em Equipe E Sou Apaixonado Por Desenhos Animados**.
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=701112&height=120&section=header"/>
 
