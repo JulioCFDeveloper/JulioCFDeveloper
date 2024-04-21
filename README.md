@@ -6,7 +6,7 @@ Aqui estão algumas informações para começar:
 
 - 🔭 Atualmente, estou trabalhando em **Distribuição Criptografada em Python**.
 - 🌱 Estou aprendendo e aperfeiçoando minhas habilidades em **Linux, Python e MySQL**.
-- 💬 Pergunte-me sobre **Python, automações e tecnologia**.
+- 💬 Pergunte-me sobre **Python, Automações e Tecnologia**.
 - 📫 Como me alcançar: **GitHub: [JulioCFDeveloper](https://github.com/JulioCFDeveloper), Email: sourcenaiomiocc@outlook.com**.
 - 😄 Pronomes: **xarcov**.
 - ⚡ Fato divertido: **Eu amo Rock and Roll, trabalho em equipe e sou apaixonado por desenhos animados**.
