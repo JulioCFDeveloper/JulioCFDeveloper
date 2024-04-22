@@ -1,24 +1,29 @@
-## Olá, Eu sou Julio Cesar Fernandes 👋
+## Olá, eu sou Julio Cesar Fernandes! 👋🎉
 
-**JulioCFDeveloper/JulioCFDeveloper** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece no seu perfil do GitHub.
+**JulioCFDeveloper/JulioCFDeveloper** é um repositório ✨ _especial_ ✨ porque aqui você encontra um resumo vibrante do meu perfil do GitHub.
 
-Aqui estão algumas informações para começar:
+### O que estou fazendo:
+- 🔭 **Projetos Atuais:** Trabalhando em uma **Distribuição Criptografada e Automações em Python**.
+- 🌱 **Aprimoramento:** Aprofundando em **Linux, Python e MySQL**.
+- 💬 **Pergunte-me sobre:** **Python, Automações e Tecnologia**.
 
-- 🔭 Atualmente, estou trabalhando em **Projetos de Distribuição Criptografada e Automações em Python**.
-- 🌱 Estou aperfeiçoando minhas habilidades em **Linux, Python e MySQL**.
-- 💬 Pergunte-me sobre **Desenvolvimento de Software, Python e Automações**.
-- 📫 Como me alcançar: **GitHub: [JulioCFDeveloper](https://github.com/JulioCFDeveloper), Email: sourcenaiomiocc@outlook.com**.
-- 😄 Pronomes: **xarcov**.
-- ⚡ Fato divertido: **Adoro Rock and Roll, trabalho em equipe e sou apaixonado por desenhos animados**.
+### Como me contatar:
+- 📫 **GitHub:** [JulioCFDeveloper](https://github.com/JulioCFDeveloper)
+- 📧 **Email:** sourcenaiomiocc@outlook.com
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=header&text=Julio%20Cesar%20Fernandes&fontSize=30&fontColor=58a6ff"/>
+### Pronomes:
+- 😄 **Xarcov**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=58a6ff&size=24&center=true&vCenter=true&width=800&lines=Explorando+o+mundo+da+tecnologia+e+automações;Desenvolvendo+sistemas+em+Python;Criando+conexões+e+soluções+inovadoras!)](https://git.io/typing-svg)
+### Fato divertido:
+- ⚡ **Amo Rock and Roll, trabalho em equipe e sou apaixonado por desenhos animados**.
+
+![Banner Julio](https://capsule-render.vercel.app/api?type=waving&color=0a0a23&height=200&section=header&text=Julio%20Cesar%20Fernandes&fontSize=50&fontColor=4ade80&animation=twinkling)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f72585&size=30&center=true&vCenter=true&width=1000&lines=Explorando+novas+tecnologias...;Desenvolvendo+soluções+inovadoras+em+Python!;Sempre+em+busca+de+desafios+e+aprendizado.)](https://git.io/typing-svg)
 
 ### Habilidades principais:
-
-![Linux](https://img.shields.io/badge/-Linux-DD4814?style=for-the-badge&logo=linux&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-FFA500?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
+![Python](https://img.shields.io/badge/-Python-1572B6?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=footer&fontColor=58a6ff"/>
+![Footer Julio](https://capsule-render.vercel.app/api?type=waving&color=0a0a23&height=150&section=footer&fontColor=4ade80)
