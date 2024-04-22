@@ -3,7 +3,7 @@
 **JulioCFDeveloper/JulioCFDeveloper** é um repositório ✨ _especial_ ✨ porque aqui você encontra um resumo vibrante do meu perfil do GitHub.
 
 ### O que estou fazendo:
-- 🔭 **Projetos Atuais:** Trabalhando em uma **Distribuição Criptografada e Automações em Python**.
+- 🔭 **Projetos Atuais:** Trabalhando em uma **Distribuição Criptografada e Python**.
 - 🌱 **Aprimoramento:** Aprofundando em **Linux, Python e MySQL**.
 - 💬 **Pergunte-me sobre:** **Python, Automações e Tecnologia**.
 
