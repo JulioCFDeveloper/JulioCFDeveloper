@@ -11,7 +11,7 @@
 - 📫 **GitHub:** [JulioCFDeveloper](https://github.com/JulioCFDeveloper)
 - 📧 **Email:** sourcenaiomiocc@outlook.com
 
-### Pronomes:
+### Pseudônimo
 - 😄 **Xarcov**
 
 ### Fato divertido:
