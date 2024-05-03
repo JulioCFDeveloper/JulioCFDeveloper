@@ -9,7 +9,7 @@
 
 ### Como me contatar:
 - 📫 **GitHub:** [JulioCFDeveloper](https://github.com/JulioCFDeveloper)
-- 📧 **Email:** sourcenaiomiocc@outlook.com
+- 📧 **Email:** sourcenaiomiocc@gmail.com
 
 ### Pseudônimo
 - 😄 **Xarcov**
