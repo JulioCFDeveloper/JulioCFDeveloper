@@ -9,10 +9,10 @@
 
 ### Como me contatar:
 - 📫 **GitHub:** [JulioCFDeveloper](https://github.com/JulioCFDeveloper)
-- 📧 **Email:** sourcenaiomiocc@gmail.com
+- 📧 **Email:** sourcenaiomiocc@proton.me
 
 ### Pseudônimo
-- 😄 **Xarcov**
+- 😄 **carcov**
 
 ### Fato divertido:
 - ⚡ **Amo Rock and Roll, trabalho em equipe e sou apaixonado por desenhos animados**.
