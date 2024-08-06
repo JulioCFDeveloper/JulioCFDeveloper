@@ -9,7 +9,7 @@
 
 ### Como me contatar:
 - 📫 **GitHub:** [JulioCFDeveloper](https://github.com/JulioCFDeveloper)
-- 📧 **Email:** sourcenaiomiocc@gamil.com
+- 📧 **Email:** sourcenaiomiocc@gmail.com
 
 ### Pseudônimo
 - 😄 **carcov**
