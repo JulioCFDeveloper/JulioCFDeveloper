@@ -2,11 +2,6 @@
 
 **JulioCFDeveloper/JulioCFDeveloper** é um repositório ✨ _especial_ ✨ porque aqui você encontra um resumo vibrante do meu perfil do GitHub.
 
-### O que estou fazendo:
-- 🔭 **Projetos Atuais:** ...**.
-- 🌱 **Aprimoramento:** Aprofundando em **Linux e Python**.
-- 💬 **Pergunte-me sobre:** **Python, Automações e Tecnologia**.
-
 ### Como me contatar:
 - 📫 **GitHub:** [JulioCFDeveloper](https://github.com/JulioCFDeveloper)
 - 📧 **Email:** sourcenaiomiocc@gmail.com
