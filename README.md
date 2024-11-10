@@ -24,6 +24,6 @@
 ### Habilidades principais:
 ![Linux](https://img.shields.io/badge/-Linux-FFA500?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-1572B6?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+
 
 ![Footer Julio](https://capsule-render.vercel.app/api?type=waving&color=0a0a23&height=150&section=footer&fontColor=4ade80)
