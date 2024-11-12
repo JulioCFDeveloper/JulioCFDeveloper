@@ -16,7 +16,7 @@ Nos momentos de lazer, curto ouvir um bom Rock and Roll, colaborar em projetos c
 - 😄 **carcov:**  (Adicione uma breve explicação sobre seu pseudônimo aqui!)
 
 ### Fato divertido:
-- ⚡ **Amo Rock and Roll, trabalho em equipe e sou apaixonado por desenhos animados**.
+- ⚡ **Eu amo Rock and Roll, trabalho em equipe e sou apaixonado por desenhos animados**.
 
 ![Banner Julio](https://capsule-render.vercel.app/api?type=waving&color=0a0a23&height=200&section=header&text=Julio%20Cesar%20Fernandes&fontSize=50&fontColor=4ade80&animation=twinkling)
 
